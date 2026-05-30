@@ -1,7 +1,7 @@
-# Welcome to Alvaro's Data Project
+# Welcome to Alvaro's Data Architecture
 
 Hello Data Developer,
-This project automates the following for you:
+This architecture automates the following for you:
 - Computer and database configuration (installation, security, user management, etc.)
 - [Development](#-development-) and [production](#-production-) guardrails.
 - [Pipelines](#-pipelines-) management and orchestration
