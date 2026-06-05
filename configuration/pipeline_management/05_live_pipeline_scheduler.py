@@ -1,0 +1,1 @@
+# if os.getenv("pipeline")=='live' then run pipelines.py again until 5pm

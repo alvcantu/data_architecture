@@ -1,0 +1,1 @@
+# Push to git origin main only if none of the files in configuration and dbt ones (inlucidng configiuration macros) are not modified.
